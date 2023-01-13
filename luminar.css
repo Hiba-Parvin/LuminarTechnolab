@@ -1,0 +1,159 @@
+.part1 {
+    background-color: rgb(98, 15, 141);
+    color: aliceblue;
+    padding-left: 180px;
+    height: 30px;
+}
+
+.pos1 {
+    padding-left: 485px;
+}
+
+.enve {
+    padding-left: 10px;
+}
+
+.nav1 {
+    padding-left: 165px;
+    padding-right: 175px;
+    padding-bottom: 50px;
+    background-color: white;
+    height: 50px;
+
+}
+
+.navitems {
+    color: rgb(98, 15, 141);
+    font-weight: 600;
+}
+
+.navitems:hover {
+    color: rgb(123, 42, 163);
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.carous1 {
+    margin-top: 35px;
+
+}
+
+.cimage {
+    height: 500px;
+    background-color: rgba(1, 1, 1, .6);
+}
+
+
+.ccon {
+    text-align: justify;
+    width: 600px;
+    margin: auto;
+    padding-bottom: 80px;
+}
+
+.ccon.cheading {
+    font-size: 160px;
+}
+
+.p1button {
+    height: 50px;
+    width: 150px;
+    background-color: rgb(123, 42, 163);
+    border: rgb(107, 35, 143) 1px solid;
+    border-radius: 30px;
+    color: aliceblue;
+    padding: 10px 15px 10px 15px;
+}
+
+.p1button:hover {
+    background-color: rgb(149, 69, 189);
+}
+
+.p2{text-align: center;
+    padding: 10px;
+}
+
+.p2button {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(123, 42, 163);
+    border: rgb(107, 35, 143) 1px solid;
+    border-radius: 30px;
+    color: aliceblue;
+    padding: 10px 15px 10px 15px;
+}
+
+.p2button:hover {
+    background-color: rgb(149, 69, 189);
+}
+.mbox1{
+    margin-top: 100px;
+}
+.mcon{
+    padding: 20px 70px 20px 70px;
+  
+}
+
+.part4{
+    width: 1200px;
+    text-align: justify;
+}
+#img3{
+    height: 500px;
+}
+.part5{
+    width: 1200px;
+    text-align: justify;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.part5:hover{
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+}
+h5,h2{
+    color: rgb(107, 35, 143) ;
+}
+h6,.p5h2{
+    color: rgb(153, 64, 197) ;
+}
+.p5h{
+    margin-top: 70px;
+    text-align: center;
+}
+.p5p{
+    color: rgb(107, 35, 143) ;
+    padding: 15px;
+}
+#p6a{
+    text-decoration: none;
+        color: rgb(107, 35, 143) ;
+        font-weight: 500;
+
+}
+
+.part6{
+    width: 100%; 
+padding-left: 150px;
+}
+.csize{
+    float: left;
+    margin: 20px;
+    border: none;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1), 0 3px 8px 0 rgba(0, 0, 0, 0.1);
+}
+.csize:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.p6b{
+background-color: rgb(107, 35, 143) ;
+color: aliceblue;
+
+padding: 10px 20px;
+}
+.p6p{
+    margin-bottom: 100px;
+}
